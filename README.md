@@ -45,7 +45,7 @@ Install deps (example):
 nimble install winim libclip
 ```
 
-````md
+
 # hk.nim — Hotkeys + Hotstrings for Windows (Nim + winim)
 
 A lightweight **Windows-only** hotkey + hotstring engine built in **Nim** on top of a **low-level keyboard hook** (`WH_KEYBOARD_LL`) via **winim**.
